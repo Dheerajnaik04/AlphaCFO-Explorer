@@ -41,4 +41,4 @@ MIT
 =======
 # AlphaCFO-Explorer
 Companies generating high cash flow from operations (CFO) relative to their market capitalization (cap) are better positioned to cover short-term obligations, reducing risk. Investors may favor these stocks, driving future outperformance.
->>>>>>> f3d467513d4729f225d6776415e266157111d4e4
+>>>>>>> 
